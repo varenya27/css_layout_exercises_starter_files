@@ -1,8 +1,44 @@
 body * {
   box-sizing: border-box;
   font-family: 'Roboto', sans-serif;
+
 }
 
 a {
   text-decoration: none;
+}
+main{
+  width: 800px;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 0;
+}
+.blackb{
+  border: 1px solid black;
+}
+.frow{
+  width: 50%;
+  height: 200px;
+  display: inline-block;
+}
+.srow{
+  width: 33.33%;
+  height: 300px;
+  display: inline-block;
+
+}
+.b1{
+  background-color: green;
+}
+.b2{
+  background-color: blue;
+}
+.b3{
+  background-color: grey;
+}
+.b4{
+  background-color: black;
+}
+.b5{
+  background-color: orange;
 }
